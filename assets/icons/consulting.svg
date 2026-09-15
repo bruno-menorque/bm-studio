@@ -1,0 +1,25 @@
+<svg
+    width="100"
+    height="100"
+    viewBox="0 0 64 64"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+>
+    <path
+        d="M10 15C10 12.8 11.8 11 14 11H50C52.2 11 54 12.8 54 15V39C54 41.2 52.2 43 50 43H31L21 53V43H14C11.8 43 10 41.2 10 39V15Z"
+        stroke="#1457C5"
+        stroke-width="2"
+    />
+
+    <path
+        d="M20 24H44"
+        stroke="#1457C5"
+        stroke-width="2"
+    />
+
+    <path
+        d="M20 31H37"
+        stroke="#1457C5"
+        stroke-width="2"
+    />
+</svg>
